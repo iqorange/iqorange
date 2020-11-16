@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iqorange&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi RCRC World 🎬
-
+- 🎮 Code Player.
 - 🔭 I’m currently working on Front-end development and product creativity like React, Vue, etc.
 - 🌱 I’m currently learning Audio Video and Creative circle like Deno, swift, tensorflow.js, ffmpeg.
 - 📫 How to reach me: iqorange@yeah.net
